@@ -1,0 +1,35 @@
+.logo{
+    text-align: center;
+}
+.div1{
+    /* margin: auto; */
+    align-items: center;
+}
+.div2{
+    margin: auto;
+    padding: 10px 100px;
+    text-align: right;
+}
+.div3{
+    padding: 10px 100px;
+    text-align: center;
+}
+.div2 input{
+    display: block;
+    text-align: center;
+    border-style: none;
+    border-bottom: 6px solid rgba(216, 130, 31, 0.938);
+    height: 50px;
+    width: 500px;
+    margin-bottom:20px ;
+}
+.btn-primary{
+    display: block;
+    background-color: rgba(216, 130, 31, 0.938);
+    border: 2;
+    box-shadow: 20px;
+    margin: 80px;
+    height: 50px;
+    width: 150px;
+    border-radius: 5px;
+}
